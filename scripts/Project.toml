@@ -1,0 +1,3 @@
+[deps]
+CairoMakie = "13f3f980-e62b-5c42-98c6-ff1f3baf88f0"
+Krang = "54806c32-d51a-438d-8447-e0041be2fbfb"
